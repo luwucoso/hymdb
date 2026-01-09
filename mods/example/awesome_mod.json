@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "mod_id": "advanced-example-mod",
+  "name": "Advanced Example Mod",
+  "summary": "An advanced example mod demonstrating all optional fields.",
+  "description": "This mod exists purely as an example.\n\nIt demonstrates **every optional field** supported by the mod index schema, including metadata useful for discovery, compatibility, and attribution.",
+  "authors": [
+    {
+      "name": "PrimaryAuthor",
+      "url": "https://example.org"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "HelpfulContributor",
+      "url": "https://example.org/contributor"
+    }
+  ],
+  "license": "MIT",
+  "game_versions": [
+    "1.0.0",
+    "1.1.0",
+    "1.2.x"
+  ],
+  "tags": [
+    "gameplay",
+    "quality-of-life",
+    "example"
+  ],
+  "dependencies": [
+  ],
+  "links": {
+    "homepage": "https://example.org/advanced-example-mod",
+    "source": "https://github.com/example/advanced-example-mod",
+    "curseforge": "https://curseforge.com/game/mods/advanced-example-mod",
+    "discord": "https://discord.gg/example"
+  },
+  "issues": "https://github.com/example/advanced-example-mod/issues",
+  "donation": "https://ko-fi.com/example"
+}
