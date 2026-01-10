@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "mod_id": "tiny-mod",
+  "name": "Pretty name",
+  "authors": [
+    {
+      "name": "PrimaryAuthor",
+      "url": "https://example.org"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "HelpfulContributor"
+    }
+  ],
+  "links": {
+    "homepage": "https://example.org/tiny-mod"
+  }
+}
