@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mod_id": "buggy_mod",
-  "name": "this json is wrong!",
+  "name": "this json is wrong! (but i fixed it now!)",
   "authors": [
     {
       "name": "PrimaryAuthor",
@@ -15,6 +15,5 @@
   ],
   "links": {
     "homepage": "https://example.org/tiny-mod"
-  },
-  "i am special!": 42
+  }
 }
