@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from validade import *
+from shared import *
 import sys
 import os
 
@@ -23,7 +23,7 @@ if error_list:
     # Print red text to the terminal
     print("\033[91mThe following errors were found:\033[0m")
     for e in error_list:
-        print(f"\033[91m- {e}\033[0m")
+        print(f"\033[91m- {pretty_error(e)}\033[0m")
     
     # Exit with an error code
     sys.exit(1)

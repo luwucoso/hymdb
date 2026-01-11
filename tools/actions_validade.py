@@ -19,11 +19,12 @@ for dirpath, dirnames, filenames in os.walk(mods_dir):
 
 if error_list:
     # Print red text to the terminal
-    print("\033[91mThe following errors were found:\033[0m")
+    print("::group::Errors validating")
     for e in error_list:
-        print(f"\033[91m- {pretty_error(e)}\033[0m")
+        print(github_error(e))
+    print("::endgroup::")
     
     # Exit with an error code
     sys.exit(1)
 
-print(f"\033[0;32mEvery mod parsed correctly!\033[0m")
+sys.exit(0)
