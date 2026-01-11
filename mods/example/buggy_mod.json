@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "mod_id": "buggy_mod",
+  "name": "this json is wrong!",
+  "authors": [
+    {
+      "name": "PrimaryAuthor",
+      "url": "https://example.org"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "HelpfulContributor"
+    }
+  ],
+  "links": {
+    "homepage": "https://example.org/tiny-mod"
+  },
+  "i am special!": 42
+}
