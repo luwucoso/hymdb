@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "mod_id": "MultipleHUD",
+  "name": "MultipleHUD",
+  "authors": [
+    {
+      "name": "Buuz135",
+      "url": "https://buuz135.com/"
+    }
+  ],
+  "links": {
+    "source": "https://github.com/Buuz135/MHUD",
+    "curseforge": "https://www.curseforge.com/hytale/mods/multiplehud"
+  }
+}

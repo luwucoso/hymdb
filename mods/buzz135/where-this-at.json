@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "mod_id": "WhereThisAt",
+  "name": "Where this at?",
+  "authors": [
+    {
+      "name": "Buuz135",
+      "url": "https://buuz135.com/"
+    }
+  ],
+  "links": {
+    "source": "https://github.com/Buuz135/Where-This-At",
+    "curseforge": "https://www.curseforge.com/hytale/mods/where-this-at"
+  }
+}

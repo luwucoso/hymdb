@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "mod_id": "simple-claims",
+  "name": "Simple Claims",
+  "authors": [
+    {
+      "name": "Buuz135",
+      "url": "https://buuz135.com/"
+    }
+  ],
+  "links": {
+    "source": "https://github.com/Buuz135/SimpleClaims",
+    "curseforge": "https://www.curseforge.com/hytale/mods/simple-claims"
+  }
+}

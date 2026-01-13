@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "mod_id": "ThePickaxesPlaceTorches",
+  "name": "The Pickaxes Place Torches",
+  "authors": [
+    {
+      "name": "Buuz135",
+      "url": "https://buuz135.com/"
+    }
+  ],
+  "links": {
+    "source": "https://github.com/Buuz135/ThePickaxesPlaceTorches",
+    "curseforge": "https://www.curseforge.com/hytale/mods/the-pickaxes-place-torches"
+  }
+}

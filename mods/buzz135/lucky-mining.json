@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "mod_id": "LuckyMining",
+  "name": "Lucky Mining",
+  "authors": [
+    {
+      "name": "Buuz135",
+      "url": "https://buuz135.com/"
+    }
+  ],
+  "links": {
+    "source": "https://github.com/Buuz135/Lucky-Mining",
+    "curseforge": "https://www.curseforge.com/hytale/mods/lucky-mining"
+  }
+}

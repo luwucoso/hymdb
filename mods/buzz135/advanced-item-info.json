@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "mod_id": "AdvancedItemInfo",
+  "name": "Advanced Item Info",
+  "authors": [
+    {
+      "name": "Buuz135",
+      "url": "https://buuz135.com/"
+    }
+  ],
+  "links": {
+    "source": "https://github.com/Buuz135/Advanced-Item-Info",
+    "curseforge": "https://www.curseforge.com/hytale/mods/advanced-item-info"
+  }
+}
