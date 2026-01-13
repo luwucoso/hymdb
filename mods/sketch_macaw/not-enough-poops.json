@@ -2,6 +2,7 @@
   "schema_version": 1,
   "mod_id": "NotEnoughPoops",
   "name": "Not Enough Poops",
+  "summary": "If the classic poop is just not enough.",
   "authors": [
     {
       "name": "Sketch Macaw",

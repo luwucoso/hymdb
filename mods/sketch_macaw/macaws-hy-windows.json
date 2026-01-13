@@ -2,6 +2,7 @@
   "schema_version": 1,
   "mod_id": "MacawsHyWindows",
   "name": "Macaw's Hy Windows",
+  "summary": "Adds openable Windows, Blinds, Curtains, Shutters, Glass..",
   "authors": [
     {
       "name": "Sketch Macaw",
