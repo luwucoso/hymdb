@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "mod_id": "MacawsHyCarpets",
+  "name": "Macaw's Hy Carpets",
+  "summary": "Adds carpets! Currently in 3 sizes and a block variant.",
+  "authors": [
+    {
+      "name": "Sketch Macaw",
+      "url": "https://www.curseforge.com/members/sketch_macaw"
+    }
+  ],
+  "links": {
+    "curseforge": "https://www.curseforge.com/hytale/mods/macaws-hy-carpets"
+  }
+}

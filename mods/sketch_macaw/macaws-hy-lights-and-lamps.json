@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "mod_id": "MacawsHyLightsAndLamps",
+  "name": "Macaw's Hy Lights and Lamps",
+  "summary": "Adds Lamps, Tiki Torches, Candle Holders, Ceiling Lights, Street Lights and more...!",
+  "authors": [
+    {
+      "name": "Sketch Macaw",
+      "url": "https://www.curseforge.com/members/sketch_macaw"
+    }
+  ],
+  "links": {
+    "curseforge": "https://www.curseforge.com/hytale/mods/macaws-hy-lights-and-lamps"
+  }
+}
+

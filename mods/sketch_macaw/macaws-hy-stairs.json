@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "mod_id": "MacawsHyStairs",
+  "name": "Macaw's Hy Stairs",
+  "summary": "Adds Stairs with Handrails, and Balcony Railings!",
+  "authors": [
+    {
+      "name": "Sketch Macaw",
+      "url": "https://www.curseforge.com/members/sketch_macaw"
+    }
+  ],
+  "links": {
+    "curseforge": "https://www.curseforge.com/hytale/mods/macaws-hy-stairs"
+  }
+}
