@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "mod_id": "YmmersiveMasonry",
+  "name": "Ymmersive Masonry",
+  "authors": [
+    {
+      "name": "Conczin",
+      "url": "https://conczin.net/"
+    }
+  ],
+  "links": {
+    "source": "https://github.com/Luke100000/YmmersiveMasonry",
+    "curseforge": "https://www.curseforge.com/hytale/mods/ymmersive-masonry"
+  }
+}

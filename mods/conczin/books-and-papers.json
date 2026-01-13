@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "mod_id": "BooksAndPapers",
+  "name": "Books and Papers",
+  "authors": [
+    {
+      "name": "Conczin",
+      "url": "https://conczin.net/"
+    }
+  ],
+  "links": {
+    "source": "https://github.com/Luke100000/BooksAndPapers",
+    "curseforge": "https://www.curseforge.com/hytale/mods/books-and-papers"
+  }
+}
